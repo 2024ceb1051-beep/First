@@ -1,6 +1,6 @@
 # Energy Consumption Dashboard
 
-### Dashboard Link : *(Add your Tableau Public Dashboard Link here)*
+### Dashboard Link : https://prod-in-a.online.tableau.com/#/site/simrannbd0001-767c3c20ec/workbooks/1175624/views
 
 ---
 
@@ -142,7 +142,7 @@ Each visualization focuses on a different business objective while maintaining a
 
 # Snapshot of Dashboard (Tableau Public)
 
-![Tableau Dashboard](YOUR_TABLEAU_PUBLIC_IMAGE_LINK)
+![Tableau Dashboard](<img width="1433" height="832" alt="Image" src="https://github.com/user-attachments/assets/1b76cd3d-c346-43ca-ad79-a1e406cd5b98" />)
 
 ---
 
@@ -150,7 +150,9 @@ Each visualization focuses on a different business objective while maintaining a
 
 ### Energy Consumption Dashboard
 
-![Dashboard](YOUR_GITHUB_IMAGE_LINK)# Insights
+![Dashboard](<img width="1696" height="937" alt="Image" src="https://github.com/user-attachments/assets/7dd4a57b-44c4-45d0-86ce-e490b7a3d35d" />)
+
+# Insights
 
 An interactive Energy Consumption Dashboard was created using Tableau Desktop and was later published to Tableau Public.
 
